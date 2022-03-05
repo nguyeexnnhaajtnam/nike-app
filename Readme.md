@@ -15,4 +15,4 @@ Must have:</br>
 Nice to have:</br>
   Responsive design (look good on all devices: desktops, tablets & mobile phones). ✓</br>
   Smooth animations (don't really need to be same as the demo, just do what you think is good). X</br>
-  Deploy the application to heroku. ✓</br>
+  Deploy the application to heroku. ✓ (https://my-test-app-2712.herokuapp.com/) </br>
